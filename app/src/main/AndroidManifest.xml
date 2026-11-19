@@ -10,7 +10,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Phanmanhtung_baitapcanhan">
+        android:theme="@style/Theme.StudentLeaf">
         <activity
             android:name=".MainActivity"
             android:exported="true"
